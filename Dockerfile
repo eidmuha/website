@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM FROM datadoglt/php73-web:1.0.0
 MAINTAINER "DataDog" <info@datadog.lt>
 
 ENV WKHTMLTOPDF_VERSION  0.12.5
